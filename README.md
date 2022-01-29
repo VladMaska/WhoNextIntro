@@ -17,6 +17,6 @@ public class WhoNext : MonoBehaviour {
 <br />
 
 ---
-<h2 align="center">『 VladMaska 』</h2>
+<h3 align="center">『 VladMaska 』</h3>
 
 ---
