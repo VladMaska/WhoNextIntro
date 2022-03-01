@@ -14,11 +14,16 @@ public class WhoNext : MonoBehaviour {
 }
 ```
 
-## <a href="https://drive.google.com/file/d/1u782ouBiIwlow36w4TSMEMcw1v9sfjLk/view?usp=drivesdk"> Result </a>
+<br>
+
+<div align="center">
+    <h2><a href="https://drive.google.com/file/d/1u782ouBiIwlow36w4TSMEMcw1v9sfjLk/view? usp=drivesdk" target="_blank" > Result </a></h2>
+</div>
 
 <br />
 
 ---
-<h3 href="google.com" align="center">『 VladMaska 』</h3>
+
+<h2 align="center">『 VladMaska 』</h2>
 
 ---
